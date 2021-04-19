@@ -187,3 +187,5 @@ In version 1.8 the GitHub hook url changed from ``http://yourserver.com/jenkins/
 
 #### -> 1.4
 When updating to versions 1.4 phrases for retesting on existing pull requsts can stop working. The solution is comment in pull request with ``ok to test`` or remove and create the job. This is caused because there was change in phrases.
+
+Test
